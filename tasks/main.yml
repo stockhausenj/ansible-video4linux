@@ -1,5 +1,5 @@
 ---
 - name: Install a .deb package from the internet.
   apt:
-    deb: "{{ v4l_source }}"
+    deb: "{{ v4l_src }}"
     force: yes

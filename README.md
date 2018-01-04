@@ -22,7 +22,7 @@ N/A
 Example Playbook
 ----------------
 ```
-$ ansible-galaxy install stockhausenj.magewell
+$ ansible-galaxy install stockhausenj.video4linux
 $ ansible-playbook -i inventory.yaml install-v4l.yaml -u <ssh-user> -K
 ```
 ```
